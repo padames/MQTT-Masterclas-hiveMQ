@@ -1,0 +1,16 @@
+identity:
+    orgId: g42x7w
+    typeId: Raspberrypi2
+    deviceId: client2
+auth:
+    key: a-g42x7w-g2vbcdtdnh
+    token: _gOXP4G0Jv9V02pq7p
+options:
+    domain: internetofthings.ibmcloud.com
+    logLevel: debug
+    mqtt:
+        port: 1883
+        transport: tcp
+        cleanStart: true
+        sessionExpiry: 7200
+        keepAlive: 60

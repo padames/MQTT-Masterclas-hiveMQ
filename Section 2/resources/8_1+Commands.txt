@@ -1,0 +1,9 @@
+pip install paho-mqtt
+pip3 install paho-mqtt 
+sudo apt-get install python-pip
+sudo apt-get install python3-pip
+sudo python -m pip install --upgrade pip setuptools wheel
+sudo python3 -m pip install --upgrade pip setuptools wheel
+sudo pip install Adafruit_DHT
+sudo pip3 install Adafruit_DHT
+sudo apt-get install build-essential python-dev python-openssl
